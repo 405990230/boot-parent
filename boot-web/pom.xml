@@ -22,7 +22,7 @@
     <dependencies>
         <dependency>
             <groupId>com.myself.boot</groupId>
-            <artifactId>boot-http</artifactId>
+            <artifactId>boot-httpclient</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
